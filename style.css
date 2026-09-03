@@ -1,0 +1,21 @@
+
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.card{
+    max-width: 1000px;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+    background-color: hsl(244, 37%, 16%);
+    border-radius: 8px;
+}
+
+.titulo-principal{
+    font-size: 15px;
+    font-weight: 400, 700;
+    color: hsla(0, 0%, 100%, 0.75)
+}
