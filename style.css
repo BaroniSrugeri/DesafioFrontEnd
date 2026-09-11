@@ -1,21 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Deca:wght@100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: inter, Lexend Deca;
+}
 
-body{
+body {
     background-color: hsl(233, 47%, 7%);
+    padding: 150px 20px;
+    display: grid;
+    place-items: center;
 }
 
-.card{
-    max-width: 1000px;
-    height: 50vh;
+#card {
     display: flex;
-    justify-content: center;
-    margin: auto;
-    flex-direction: column;
-    background-color: hsl(244, 37%, 16%);
+    flex-wrap: wrap;
+    background-color: hsl(244, 37%, 16%); 
     border-radius: 8px;
+    overflow: hidden;
+    max-width: 1440px;
+    min-height: 400px;
+}
+h2{
+    color: hsl(0, 0%, 100%);
+}
+.sub{
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.lado-texto {
+    flex: 1;
+    padding: 90px 70px;
 }
 
-.titulo-principal{
-    font-size: 15px;
-    font-weight: 400, 700;
-    color: hsla(0, 0%, 100%, 0.75)
+
+.lado-imagem {
+    flex: 1;
+    flex-direction: column;
+    background-image: url(images/image-header-desktop.jpg);
+    background-size: cover;
+    background-position: center;
 }
