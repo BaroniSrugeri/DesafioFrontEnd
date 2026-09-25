@@ -1,0 +1,21 @@
+02-09 
+Criação do repositório e incio do projeto
+Primeira versão do HTML e CSS usados para uma base
+
+11-09
+Adição das imagens e icones dentro da pasta designada no repositório
+Modificações no HTML e CSS
+Protótipo da página concluído 
+Adicionei a documentação do projeto no readme
+
+25-09
+Criei um doc.txt próprio para documentar o projeto
+Alinhando alguns elementos css para deixar mais parecido com o design original como:
+Adição da tag SPAN para estilizar a palavra em destaque
+voltei a imagem para o html ao inves de usar no css
+estilizei mais a parte dos dados
+
+oque falta: 
+arrumar o tamanho do card pq está imenso de grande
+deixar responsivel
+deixar a imagem monocromatica roxa O_O
