@@ -15,7 +15,7 @@ Adição da tag SPAN para estilizar a palavra em destaque
 voltei a imagem para o html ao inves de usar no css
 estilizei mais a parte dos dados
 
-oque falta: 
-arrumar o tamanho do card pq está imenso de grande
-deixar responsivel
-deixar a imagem monocromatica roxa O_O
+30-09
+Finalizei o projeto arrumando o tamanho do card
+deixei a imagem monocromatica roxa (com ajuda de IA para ver qual tag eu deveria usar)
+deixei o máximo responsivel q consegui (também com ajuda da IA)
