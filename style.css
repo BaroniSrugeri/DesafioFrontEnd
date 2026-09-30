@@ -95,14 +95,14 @@ img {
         position: relative;
     }
 
-    .dados {
+    .numero {
         flex: none;
         position: relative;
         padding: 25px;
         text-align: center;
     }
 
-    .numero {
+    .dados {
         justify-content: center;
         flex-wrap: wrap;
         gap: 25px;
